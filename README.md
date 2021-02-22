@@ -8,7 +8,8 @@ To create entry:
 
 http method : POST  
 url : http://localhost:8081/urlshortner/create
-Body : <your-longURL>
+
+Body : <some long url>
 
 Response : <7 digit Alphanumeric code>
 
